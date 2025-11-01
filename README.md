@@ -5,7 +5,12 @@ DSA project template for the Bootcamp on Nov 1st, 2025.
 Provide a [Popular Tourist Destinations and Their Features](https://www.kaggle.com/datasets/cosmox23/popular-tourist-destinations-and-their-features) 
 
 Briefly _explain_ your **hypothesis**.
-
+ 
+Which Country is the most popular?
+Gusses:
+Jasmin- Hawaii
+Dhyani- France
+Lorena- Japan
 ## Sub headings
 
 More info:
